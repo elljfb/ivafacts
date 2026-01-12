@@ -184,7 +184,7 @@ Ready to explore whether an IVA is right for you?
 - [Check your eligibility](/calculators/eligibility/)
 - [Calculate potential monthly payment](/calculators/monthly-payment/)
 - [Compare IVA with alternatives](/debt-solutions/)
-- [Read FAQs about the process](/faq/process/)
+- [Read FAQs about the process](/faq/)
 
 ## Need Help?
 
