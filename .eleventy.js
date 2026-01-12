@@ -3,9 +3,12 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/css");
   eleventyConfig.addPassthroughCopy("src/js");
   eleventyConfig.addPassthroughCopy("src/images");
+  eleventyConfig.addPassthroughCopy("src/robots.txt");
+  eleventyConfig.addPassthroughCopy("src/site.webmanifest");
   
-  // Add CNAME file for GitHub Pages custom domain
+  // Add CNAME and .nojekyll for GitHub Pages
   eleventyConfig.addPassthroughCopy("src/CNAME");
+  eleventyConfig.addPassthroughCopy("src/.nojekyll");
   
   // Create a collection for blog posts
   eleventyConfig.addCollection("blog", function(collectionApi) {
