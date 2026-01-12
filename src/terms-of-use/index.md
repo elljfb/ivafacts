@@ -206,7 +206,7 @@ These Terms, along with our Privacy Policy and Cookie Policy, constitute the ent
 For questions about these Terms:
 
 - Visit our [Contact page](/contact/)
-- Email: [Your contact email]
+- Email: [info@ivafacts.co.uk]
 
 ### 17. Acknowledgment
 

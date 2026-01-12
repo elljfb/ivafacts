@@ -8,6 +8,13 @@ description: Get in touch with IVA Facts for questions about our website or info
 
 Have questions about IVA Facts or the information we provide? We're here to help.
 
+### Email Us
+
+**General Inquiries**  
+Email: [info@ivafacts.co.uk](mailto:info@ivafacts.co.uk)
+
+We typically respond within 2-3 business days.
+
 ### Important Reminders
 
 ⚠️ **We cannot provide**:
@@ -92,13 +99,6 @@ We aim to respond to inquiries within 2-3 business days. Please note:
 - For urgent debt help, contact the free services listed above
 - Complex questions may take longer to answer
 
----
-
-## Stay Updated
-
-### Latest Updates
-
-Check our [Blog](/blog/) for the latest articles about IVAs and debt solutions.
 
 ---
 

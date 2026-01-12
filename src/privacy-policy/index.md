@@ -121,7 +121,7 @@ We may update this Privacy Policy periodically. Changes will be posted on this p
 
 For privacy-related questions or to exercise your rights:
 
-- Email: [Your contact email]
+- Email: [info@ivafacts.co.uk]
 - Contact Form: [/contact/](/contact/)
 
 ### Supervisory Authority
