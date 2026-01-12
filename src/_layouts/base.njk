@@ -6,6 +6,24 @@
   <title>{% if isHomepage %}{{ title }}{% else %}{{ title }} | IVA Facts{% endif %}</title>
   <meta name="description" content="{{ description or 'Free, impartial information about Individual Voluntary Arrangements (IVAs) and debt solutions in the UK.' }}">
   
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://ivafacts.co.uk{{ page.url }}">
+  <meta property="og:title" content="{% if isHomepage %}{{ title }}{% else %}{{ title }} | IVA Facts{% endif %}">
+  <meta property="og:description" content="{{ description or 'Free, impartial information about Individual Voluntary Arrangements (IVAs) and debt solutions in the UK.' }}">
+  <meta property="og:image" content="https://ivafacts.co.uk/images/iva-facts.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:locale" content="en_GB">
+  <meta property="og:site_name" content="IVA Facts">
+  
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:url" content="https://ivafacts.co.uk{{ page.url }}">
+  <meta name="twitter:title" content="{% if isHomepage %}{{ title }}{% else %}{{ title }} | IVA Facts{% endif %}">
+  <meta name="twitter:description" content="{{ description or 'Free, impartial information about Individual Voluntary Arrangements (IVAs) and debt solutions in the UK.' }}">
+  <meta name="twitter:image" content="https://ivafacts.co.uk/images/iva-facts.jpg">
+  
   <!-- Favicons -->
   <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
   <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
