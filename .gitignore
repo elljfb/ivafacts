@@ -3,5 +3,5 @@ _site/
 .DS_Store
 *.log
 .env
-brief.txt
+
 *-disabled

@@ -1,0 +1,111 @@
+ Comprehensive Website Directory for ivafacts.co.uk
+Here is a detailed, hierarchical site directory designed for SEO, user experience, and AdSense compliance. This structure follows the hub-and-spoke model, with pillar pages targeting broad topics and cluster pages covering specific subtopics.
+
+🏠 Level 1: Primary Navigation (Main Menu)
+Page Title	URL Slug	Primary Purpose	Core SEO Keyword Target
+Home	/	Conversion funnel entry, site overview	"IVA" "IVA help"
+What is an IVA?	/what-is-an-iva/	Core pillar page, ultimate guide	"what is an iva"
+IVA Alternatives	/debt-solutions/alternatives/	Core pillar page, comparison hub	"iva alternatives" "iva vs bankruptcy"
+IVA Process	/iva-process/	Core pillar page, step-by-step guide	"how to get an iva"
+Calculators & Tools	/calculators/	Interactive tool hub	"iva calculator"
+Blog/Guides	/blog/	Fresh content, long-tail keywords	(Various long-tail phrases)
+Contact	/contact/	Trust signal, user inquiries	N/A
+📚 Level 2: Detailed Page Architecture
+1. Homepage (/)
+Hero Section: Clear value proposition ("Free, Impartial IVA Information")
+
+Quick IVA Eligibility Checker (3-question widget)
+
+Key Feature Boxes: Links to major tools/guides
+
+Latest Blog Posts snippet
+
+Trust Indicators: "Information not advice" disclaimer
+
+2. "What is an IVA?" Pillar Section (/what-is-an-iva/)
+Subpage	URL Slug	Content Focus
+IVA Pros and Cons	/what-is-an-iva/pros-cons/	Balanced analysis, tables comparing advantages/disadvantages
+IVA Eligibility Criteria	/what-is-an-iva/eligibility/	Detailed requirements, minimum debt thresholds
+IVA Costs and Fees	/what-is-an-iva/costs/	Nominee vs. supervisor fees, setup costs
+IVA Effects on Credit	/what-is-an-iva/credit-score/	Credit file impact (6 years), rebuilding after
+IVA Consequences	/what-is-an-iva/consequences/	Home equity, occupational restrictions, lifestyle changes
+3. "IVA Alternatives" Pillar Section (/debt-solutions/)
+Subpage	URL Slug	Comparison Focus
+IVA vs. Bankruptcy	/debt-solutions/iva-vs-bankruptcy/	Asset protection, duration, cost comparison
+IVA vs. Debt Relief Order	/debt-solutions/iva-vs-dro/	Debt threshold, asset limits, eligibility
+IVA vs. Debt Management Plan	/debt-solutions/iva-vs-dmp/	Formality, creditor pressure, interest freezing
+IVA vs. Scottish Trust Deed	/debt-solutions/iva-vs-trust-deed/	Scottish equivalent, legal differences
+Full Debt Solution Comparison	/debt-solutions/comparison-table/	Interactive comparison table
+4. "IVA Process" Pillar Section (/iva-process/)
+Subpage	URL Slug	Step Description
+Initial Assessment	/iva-process/initial-assessment/	Paperwork gathering, debt listing
+Choosing an Insolvency Practitioner	/iva-process/choosing-ip/	How to select, questions to ask
+Proposal Preparation	/iva-process/proposal/	What's included, affordability calculation
+Creditors' Meeting	/iva-process/creditors-meeting/	75% voting rule, modifications
+IVA Approval & Living With It	/iva-process/approved-living/	Annual reviews, payment changes
+IVA Completion/Failure	/iva-process/completion-failure/	Completion certificate, breach consequences
+5. "Calculators & Tools" Hub (/calculators/)
+Tool	URL Slug	Function
+IVA Eligibility Calculator	/calculators/eligibility/	Detailed questionnaire with results
+IVA Monthly Payment Calculator	/calculators/monthly-payment/	Based on income/expenditure
+Debt Solution Comparator	/calculators/solution-comparator/	Recommends appropriate solutions
+IVA Cost Breakdown Calculator	/calculators/cost-breakdown/	Visualizes fees over IVA term
+6. FAQ Section (Integrated Throughout)
+Create FAQ schema markup for these categories:
+
+/faq/eligibility/ - 10-15 questions on who qualifies
+
+/faq/process/ - 10-15 questions on how it works
+
+/faq/living-with-iva/ - 10-15 questions during IVA term
+
+/faq/after-iva/ - 10-15 questions post-completion
+
+🗂️ Level 3: Supporting & Utility Pages
+Legal & Compliance Pages
+Page	URL Slug	Critical Content
+Disclaimer	/disclaimer/	"Not financial advice," recommend licensed IPs
+Privacy Policy	/privacy-policy/	GDPR compliant, data protection
+Cookies Policy	/cookies-policy/	Cookie consent management
+Terms of Use	/terms-of-use/	Website usage terms
+Supporting Content Pages
+Page	URL Slug	Purpose
+Glossary of Terms	/glossary/	A-Z of IVA/debt terms with internal links
+IVA Case Studies	/case-studies/	Hypothetical examples (John's story, etc.)
+Insolvency Register Guide	/iva-register/	How to check if someone has an IVA
+IVA Myths Debunked	/myths/	Address common misconceptions
+Blog Categories (/blog/)
+Create these taxonomy categories for organization:
+
+blog/iva-news/ - Industry changes, legal updates
+
+blog/debt-advice/ - General debt management tips
+
+blog/credit-repair/ - Post-IVA credit rebuilding
+
+blog/mental-health/ - Coping with debt stress
+
+blog/success-stories/ - Motivational content
+
+🔗 Internal Linking Strategy
+Each pillar page should link to its cluster pages
+
+Calculators should link to relevant informational pages
+
+Blog posts should link to pillar pages
+
+FAQ pages should link to detailed guides
+
+Every page should have at least 2-3 internal links
+
+⚠️ Critical Legal Requirements
+Every page must display: "IVA Facts provides free impartial information. We are not licensed insolvency practitioners. Always seek professional advice before entering any debt solution."
+
+Do not recommend specific IVA companies
+
+Do not claim to "write off" debt (use "manage" or "resolve")
+
+Include clear disclosure if you eventually use affiliate links
+
+This directory creates approximately 40-50 pages of targeted content, sufficient to establish authority and achieve AdSense approval within 3-4 months of consistent content publication.
+
