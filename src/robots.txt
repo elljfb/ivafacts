@@ -1,0 +1,10 @@
+# robots.txt for ivafacts.co.uk
+
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://ivafacts.co.uk/sitemap.xml
+
+# Disallow crawling of specific paths (if any)
+# None currently

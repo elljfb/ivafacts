@@ -1,0 +1,17 @@
+{
+  "name": "ivafacts-website",
+  "version": "1.0.0",
+  "description": "Comprehensive IVA information website using Eleventy static site generator",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy",
+    "clean": "rm -rf _site"
+  },
+  "keywords": ["iva", "debt-solutions", "eleventy", "static-site"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  },
+  "dependencies": {}
+}
