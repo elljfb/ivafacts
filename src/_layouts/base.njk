@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ title }} | IVA Facts - Free Impartial IVA Information</title>
+  <title>{% if isHomepage %}{{ title }}{% else %}{{ title }} | IVA Facts{% endif %}</title>
   <meta name="description" content="{{ description or 'Free, impartial information about Individual Voluntary Arrangements (IVAs) and debt solutions in the UK.' }}">
   
   <!-- Favicons -->
